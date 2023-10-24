@@ -84,3 +84,7 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 
 * Turbidity
 ![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/ae8925f8-0912-44de-ab60-f5daf7e7ecf4)
+
+
+### Piechart
+* Potability

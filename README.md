@@ -48,3 +48,8 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 
 # EDA
 ### Pairplot
+![Screenshot 2023-10-24 202648](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/3cf2377c-f0cb-483d-bd71-5d15696ce780)
+
+### Heatmap
+![Screenshot 2023-10-24 202714](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/7acb2f96-6bb3-44b4-acd5-02e45a1ee5c8)
+

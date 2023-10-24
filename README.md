@@ -58,3 +58,29 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 ![Screenshot 2023-10-24 203106](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/3d953c53-e553-4a44-ad8d-0979c0e15b6d)
 
 ### Distplot
+* ph
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/8365c110-4657-46ff-96b6-22c02cf79aa1)
+
+* Hardness
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/b187c32c-9f43-4109-b7ba-ab8c71e3c2c7)
+
+* Solids
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/74931372-c791-4f92-909d-fe5b43106a1b)
+
+* Chloramines
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/70d34e22-abac-4302-83fb-0c4bf971a8a9)
+
+* Sulfate
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/f097801a-c7be-4d2b-9c54-4e129a71148f)
+
+* Conductivity
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/f48a1082-4abc-47ac-9664-6fcc11ef186d)
+
+* Organic_carbon
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/e6000f9e-58a2-4a44-a42d-b3f1060e9191)
+
+* Trihalomethanes
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/c3b1cc60-5f4b-4cb0-a25d-397cafac94a6)
+
+* Turbidity
+![image](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/ae8925f8-0912-44de-ab60-f5daf7e7ecf4)

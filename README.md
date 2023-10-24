@@ -88,3 +88,32 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 
 ### Piechart
 * Potability
+![Screenshot 2023-10-24 204654](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/fd994c5e-f701-4e34-b04a-3f9b407de228)
+
+
+# Models
+* Logistic Regression
+* Decision Tree Classifier
+* Random Forest Classifier
+* AdaBoost Classifier
+* Gradient Boosting Classifier
+* SVC
+
+# Accuracy
+* Logistic Regression
+
+
+* Decision Tree Classifier
+
+
+* Random Forest Classifier
+
+
+* AdaBoost Classifier
+
+
+* Gradient Boosting Classifier
+
+
+* SVC
+

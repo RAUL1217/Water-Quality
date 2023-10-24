@@ -101,19 +101,25 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 
 # Accuracy
 * Logistic Regression
+![Screenshot 2023-10-24 204946](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/3ff36cc9-56cb-41e6-b58d-f473d52667a9)
 
 
 * Decision Tree Classifier
+![Screenshot 2023-10-24 205006](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/fada0e8f-b5a8-412b-8776-e43665804709)
 
 
 * Random Forest Classifier
+![Screenshot 2023-10-24 205027](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/fc7ae73b-2a2f-462c-bf11-46431122ad1e)
 
 
 * AdaBoost Classifier
+![Screenshot 2023-10-24 205046](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/65eda811-af58-4a05-a1a2-33e79ab19be4)
 
 
 * Gradient Boosting Classifier
+![Screenshot 2023-10-24 205104](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/fcfa478a-f585-47b0-8115-405fc2e2b106)
 
 
 * SVC
+![Screenshot 2023-10-24 205126](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/3192dc5e-0dac-4d21-a802-4980d42d30b3)
 

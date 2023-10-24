@@ -97,7 +97,7 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 * Random Forest Classifier
 * AdaBoost Classifier
 * Gradient Boosting Classifier
-* SVC
+* SVC 
 
 # Accuracy
 * Logistic Regression

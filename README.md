@@ -54,6 +54,7 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 ![Screenshot 2023-10-24 202714](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/7acb2f96-6bb3-44b4-acd5-02e45a1ee5c8)
 
 ### Countplot
-
+* Potability
 ![Screenshot 2023-10-24 203106](https://github.com/RAUL1217/Water-Quality-Prediction-Analysis/assets/142076300/3d953c53-e553-4a44-ad8d-0979c0e15b6d)
 
+### Distplot
